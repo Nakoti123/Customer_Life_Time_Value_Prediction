@@ -1,8 +1,24 @@
-# Customer_Life_Time_Value_Prediction
-Problem Statement
+# Customer Lifetime Prediction Project
+This repository contains code and resources for the Customer Lifetime Prediction project. The goal of this project is to develop a predictive model that estimates the lifetime value of customers for an auto insurance company. By accurately predicting customer lifetime value, the company can make informed decisions regarding customer acquisition, retention, and marketing strategies.
 
-Problem Description : To predict the Customer life time value for an auto insurance company based on different quantitative and qualitative features provided.
+# Features
+-> Utilizes machine learning algorithms like Decesion Tree and Random Forest  to build the predictive model.
 
-Forecasting is an important approach to take an optimal decision and implement appropriate action plans. A major non-life insurance company wants to evaluate customer life time value based on each customer’s demographics and policy information including claim details. The CLV is a profitability metric in terms of a value placed by the company on each customer and can be conceived in two dimensions: the customer`s present Value and potential future Value.
+-> Performs data preprocessing, including handling missing values, feature engineering, and data normalization.
 
-You are expected to create an analytical and modelling framework to predict the life time value of each customer based on the quantitative and qualitative features provided in the dataset and also cluster the train dataset to understand behaviour of each segment.
+-> Evaluates the model's performance using various metrics such as MSE and RMSE.
+
+-> Includes data visualization techniques to gain insights from the data and interpret the model's predictions.
+
+-> Provides Jupyter Notebook files with detailed explanations and code documentation for better understanding and reproducibility.
+# Dataset
+The project uses a dataset containing historical customer information, including demographics, policy details, claims history, and customer tenure. The dataset is preprocessed and split into training and testing sets for model development and evaluation.
+
+# Usage
+-> Open the Jupyter Notebook files to explore the code and run the cells step-by-step.
+
+-> Follow the instructions provided in the notebooks for data loading, preprocessing, model training, and evaluation.
+
+-> Customize the code and experiment with different algorithms or techniques to improve the model's performance.
+# Results
+The project aims to achieve high accuracy and precision in predicting customer lifetime value. The performance of the models can be evaluated using various evaluation metrics, and the results can be visualized to gain insights into the factors influencing customer lifetime value.
