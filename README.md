@@ -21,4 +21,4 @@ The project uses a dataset containing historical customer information, including
 
 -> Customize the code and experiment with different algorithms or techniques to improve the model's performance.
 # Results
-The project aims to achieve high accuracy and precision in predicting customer lifetime value. The performance of the models can be evaluated using various evaluation metrics, and the results can be visualized to gain insights into the factors influencing customer lifetime value.
+The project aims to achieve high score of 0.98% in predicting customer lifetime value. The performance of the models can be evaluated using various evaluation metrics, and the results can be visualized to gain insights into the factors influencing customer lifetime value.
